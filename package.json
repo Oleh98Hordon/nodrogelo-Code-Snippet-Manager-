@@ -1,0 +1,20 @@
+{
+  "name": "nodrogelo-snippet", 
+  "version": "1.0.0", 
+  "description": "This could include features like tagging, searching, and integration with popular code editors", 
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Oleh98Hordon/nodrogelo-Code-Snippet-Manager-.git" 
+  },
+  "keywords": [ 
+    "teathebest", 
+    "codesnippet",
+    "mamanger"
+  ],
+  "author": "Nodrogelo", 
+  "license": "MIT"
+}
